@@ -1,3 +1,10 @@
+<!-- PROJECT DESCRIPTION -->
+<h2 align="center">📂 Project Overview</h2>
+<p align="center">
+    This project is made with <strong>Vite</strong>, <strong>React</strong>, <strong>Node</strong>, <strong>Electron</strong>, <strong>Python</strong>, and <strong>SQL</strong>.
+</p>
+
+
 <!-- HEADER -->
 <div id="header" align="center">
   <img src="asset/gifprofile.gif?raw=true" width="800" heigth="800"/>
