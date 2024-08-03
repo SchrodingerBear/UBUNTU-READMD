@@ -1,7 +1,8 @@
 <!-- PROJECT DESCRIPTION -->
 <h2 align="center">📂 Project Overview</h2>
 <p align="center">
-    This project is made with <strong>Vite</strong>, <strong>React</strong>, <strong>Node</strong>, <strong>Electron</strong>, <strong>Python</strong>, and <strong>SQL</strong>.
+    This project is made with <strong>Vite</strong>, <strong>React</strong>, <strong>Node</strong>, <strong>Electron</strong>, <strong>Python</strong>, and SQL.
+    <br>You can't clone it without owners assistance.
 </p>
 
 
