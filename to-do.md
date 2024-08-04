@@ -3,10 +3,11 @@
 ## Nexus Mobile
 - Develop more interface and functionality in Nexus Mobile.
 
-## Portfolio
+## Lite HR Portfolio
 - Create a lite version of the portfolio.
 
-## MICA AI Integration
+## Nexus V2
+- Reroute to backend endpoint as it is served as .html temporarily
 - Integrate more functions in Nexus V2.
 - Integrate MICA AI for better assistance of desktop.
   - **M**: Multimodal
