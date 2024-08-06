@@ -2,7 +2,7 @@
 <h2 align="center">📂 Project Overview</h2>
 <p align="center">
     This project is made with <strong>Vite</strong>, <strong>React JS</strong>, <strong>Node JS</strong>, <strong>Electron</strong>, <strong>Python</strong>, and <strong>SQL</strong>.
-    <br>You can't clone it without owners assistance.
+    <br>This website is currently at very heavy development as routes and my old website data are being migrated. <br>Render Page is just static with file .html as placeholder.
 </p>
 
 
@@ -21,12 +21,12 @@
 <br>
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
-<ul>
+<!-- <ul>
   <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects" target="_blank">bit.ly/scvp_projects</a></li>
   <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment" target="_blank">bit.ly/scvp_appointment</a></li>
   <li>📫 How to reach me: <a href="mailto:seancvpugosa@gmail.com" target="_blank">seancvpugosa@gmail.com</a></li>
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
-</ul>
+</ul> -->
 
 <br>
 
